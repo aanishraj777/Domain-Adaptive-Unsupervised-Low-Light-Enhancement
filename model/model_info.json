@@ -1,0 +1,10 @@
+{
+  "input_size": [
+    400,
+    600
+  ],
+  "input_channels": 3,
+  "output_channels": 3,
+  "preprocessing": "simple_retinex",
+  "best_val_loss": 0.0456461675465107
+}
